@@ -1,3 +1,5 @@
+> **Fork notice:** this repository is a fork of https://github.com/calesthio/OpenMontage by calesthio, licensed under AGPL-3.0. The original code remains the property of its authors. See [FORK_NOTICE.md](FORK_NOTICE.md).
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/monty-dark.svg">
